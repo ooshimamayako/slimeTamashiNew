@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ZRNAssets/005339_08932_25_14/Scenes/Sample_005339_08932_25_14.unity
     guid: 783686484a6b647158a3961cbd5e6f63
-  - enabled: 1
+  - enabled: 0
     path: Assets/amusedART/SlimeRabbit/Scene/Test_Scene.unity
     guid: d72ed08c3cca79e4abd88f5fdedc43e1
+  - enabled: 1
+    path: Assets/startmenu.unity
+    guid: f3c06d2cbfa78264196df2484d0758d9
+  - enabled: 1
+    path: Assets/katamarimap.unity
+    guid: 0b8786c9d13a0ef4bb4c408a904b764a
   m_configObjects: {}
