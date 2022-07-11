@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class GameTimer : MonoBehaviour
 {
 
-    private float time = 3.0f;
+    private float time = 180.0f;
     public Text timerText;
     public bool isTimeUp;
 
@@ -29,5 +29,4 @@ public class GameTimer : MonoBehaviour
             SceneManager.LoadScene("result");
         }
     }
-}
 }
